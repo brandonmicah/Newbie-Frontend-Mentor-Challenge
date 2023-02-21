@@ -271,6 +271,7 @@ svg {
         width: 100%;
         overflow: hidden;
         border-radius: 30px;
+        box-shadow: rgba(0, 0, 0, 0.3) 0px 3px 8px;
     }
     .result {
         background-color: hsla(234, 85%, 45%, .8);
