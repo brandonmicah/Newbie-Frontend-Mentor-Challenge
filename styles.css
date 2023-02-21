@@ -264,8 +264,8 @@ svg {
         display: flex;
         margin: 0 auto;
         padding: 0;
-        min-width: 40rem;
-        max-width: 50vw;
+        min-width: 38rem;
+        max-width: 50%;
         text-align: center;
         height: 100%;
         width: 100%;
@@ -322,9 +322,9 @@ svg {
     
     .circle {
         color: white;;
-        margin: 1.3rem auto;
-        height: 9rem;
-        width: 9rem;
+        margin: 1.8rem auto;
+        height: 10rem;
+        width: 10rem;
         border-radius: 50%;
         background-image: linear-gradient(
              var(--gradient-3),
@@ -335,7 +335,7 @@ svg {
     .seventy-six{
         font-size: 3.2rem;
         margin: 0 auto;
-        padding: 1rem 0 0 0;
+        padding: 2rem 0 0 0;
         font-weight: 800;
     }
     
@@ -347,9 +347,10 @@ svg {
     
     .below-great {
         color: white;
-        opacity: .5;
-        font-size: 1rem;
+        opacity: .7;
+        font-size: .9rem;
         padding-top: .4rem;
     }
     
 }
+ /* DONE */
